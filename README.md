@@ -1,7 +1,7 @@
 ## Hi there, I'm Alex!
 
-I am software developer from [sumatosoft](https://sumatosoft.com) I am
-interested in Ruby, Node.js and front end.
+I am software developer from [sumatosoft](https://sumatosoft.com). I am
+interested in Ruby, Node.js and Web.
 
 <!--
 **alexandr-senyuk/alexandr-senyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
