@@ -1,6 +1,6 @@
 ## Hi there, I'm Alex!
 
-I am software developer from [sumatosoft](https://sumatosoft.com). I am
+I am software developer. I am
 interested in Ruby, Node.js and Web.
 
 <!--
